@@ -1,0 +1,16 @@
+{
+  "name": "diabetes-knn",
+  "version": "1.0.0",
+  "description": "Predict Diabetes Disease with KNN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "diabetes",
+    "KNN",
+    "ML"
+  ],
+  "author": "htwe htwe aung",
+  "license": "MIT"
+}
